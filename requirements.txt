@@ -1,0 +1,2 @@
+bs4==0.0.2
+cloudscraper==1.2.71
